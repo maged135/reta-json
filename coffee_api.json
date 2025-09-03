@@ -41,7 +41,7 @@
       "category": "hot-drink",
       "name": "Latte",
       "description": "Delicious hot latte made fresh.",
-      "image": "https://example.com/images/latte.jpg",
+      "image": "https://th.bing.com/th/id/R.b37ed66c3693fe40092a5145f16293ce?rik=C4FQcIW%2bEmGx1Q&pid=ImgRaw&r=0",
       "salary": 35,
       "rate": 4.2
     },
@@ -221,7 +221,7 @@
       "category": "cold-drink",
       "name": "Cold Brew",
       "description": "Refreshing cold cold brew served with ice.",
-      "image": "https://example.com/images/cold-brew.jpg",
+      "image": "https://www.simplyrecipes.com/thmb/t9ZeQC3Nb2YUoQTnxUJrjJbnKEA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Cold-Brew-Coffee-LEAD-16-428691bcdd594281b2f5dc6dbc8235e4.jpg",
       "salary": 65,
       "rate": 4.2
     },
